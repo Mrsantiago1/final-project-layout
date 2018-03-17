@@ -1,0 +1,45 @@
+body{
+  background: pink;
+  align-items: center;
+}
+.reasons li{
+  text-decoration: none;
+  float: left;
+  margin: 40px;
+  margin-left: 75px;
+  color: white;
+  background: black;
+}
+.uptop{
+  float: left;
+  margin-left: 550px;
+  text-align: center;
+}
+.twins{
+  float: left;
+  text-align: center;
+  height: 300px;
+  width: 400px;
+  margin: 20px;
+  margin-left: 150px;
+  background: white;
+}
+.middle{
+  float: left;
+  margin-left: 400px;
+  margin-bottom: 50px;
+  text-align: center;
+  width: 500px;
+  height: 200px;
+  background: white;
+}
+.bottom{
+  float: left;
+  margin-left: 300px;
+  margin-bottom: 50px;
+  text-align: center;
+  width: 700px;
+  height: 350px;
+  align-items: center;
+  background: white;
+}
